@@ -1,7 +1,12 @@
-# KN_Project9 🎮
+# KN_Tower 🎮
 A Kricom Network | KN GameStudios Project
 
-![KN_Project9 - Preview](https://github.com/Eveneo/KN_Project9/blob/main/.github/KN_Project9_Main_Menu_Preview_beta_v.0.0.0.png)
+![KN_Tower - Preview](https://github.com/Eveneo/KN_Tower/blob/main/.github/KN_Tower_Main_Menu_Preview_alpha_v.0.0.4.png)
 
-Watch it live on Kick.com<br />
-https://kick.com/eveneo
+💾 Super early supporter PRE-PRE-PRE-ORDER 💶<br />
+https://ko-fi.com/eveneo/shop<br />
+<br />
+
+📺 Watch it live on Kick.com<br />
+https://kick.com/eveneo<br />
+<br />
